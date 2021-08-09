@@ -24,3 +24,15 @@ h3 {
     text-transform: none;
     letter-spacing: 0.01em;
 }
+
+.random {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    background-color: rgba(0,0,0,.5);
+    border: none;
+    color:rgba(255, 255, 255, 0.795);
+    letter-spacing: 2px;
+    font-size: 2rem;
+}
